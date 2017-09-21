@@ -1,0 +1,2 @@
+Si se desea ejecutar el programa se debe utilizar Dr. Racket con el archivo que posee la extension 
+.rkt.
